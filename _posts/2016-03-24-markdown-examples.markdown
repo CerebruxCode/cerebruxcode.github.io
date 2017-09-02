@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Example"
-date:   2017-03-29 00:00:00 +0200
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+title:  "Κώδικας Markdown"
+date:   2016-03-29 00:00:00 +0200
+description: Τα post βρίσκονται στο `_posts` φάκελο. Μπορείς να δεις τον κώδικά αυτού του post στον φάκελο.
 ---
 
 ## Headings
