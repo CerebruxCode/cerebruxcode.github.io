@@ -8,10 +8,10 @@ permalink: ':title/'
 url: "http://code.cerebrux.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: https://www.facebook.com/cerebrux/
-twitter: https://twitter.com/cerebrux
-google-plus: https://plus.google.com/collection/0X3zfB
-github: https://github.com/cerebruxcode
+facebook: cerebrux
+twitter: cerebrux
+google-plus: collection/0X3zfB
+github: cerebruxcode
 #Mymods
 #excerpt_separator: '<!-- more -->'
 keywords:
