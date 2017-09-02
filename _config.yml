@@ -4,7 +4,7 @@ title: Cerebrux Code
 description: > # this means to ignore newlines until "baseurl:"
   Αποθετήριο Κώδικα Cerebrux. Στο αποθετήριο θα βρείτε εφαρμογές και κώδικα ανοιχτού και ελεύθερου λογισμικού
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
+#baseurl: "/fresh" # the subpath of your site, e.g. /blog
 url: "http://code.cerebrux.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
