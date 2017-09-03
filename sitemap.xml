@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created by cerebrux.net-->
+
+<url>
+  <loc>http://code.cerebrux.net/</loc>
+  <lastmod>2017-09-02T23:47:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://code.cerebrux.net/about/</loc>
+  <lastmod>2017-09-02T23:47:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cerebrux.net/Archon-%CE%A0%CF%81%CF%8E%CF%84%CE%B7-%CF%83%CF%84%CE%B1%CE%B8%CE%B5%CF%81%CE%AE-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7/</loc>
+  <lastmod>2017-09-02T23:47:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cerebrux.net/%CE%A3%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%B5-%CF%84%CE%BF-Cerebrux-Code/</loc>
+  <lastmod>2017-09-02T23:47:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cerebrux.net/markdown-examples/</loc>
+  <lastmod>2017-09-02T23:47:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cerebrux.net/%CE%BA%CE%B1%CE%BB%CE%B7%CE%BC%CE%AD%CF%81%CE%B1-%CE%BA%CF%8C%CF%83%CE%BC%CE%B5/</loc>
+  <lastmod>2017-09-02T23:47:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
