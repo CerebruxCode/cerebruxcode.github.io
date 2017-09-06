@@ -26,4 +26,4 @@ description: Μετά από περίπου 12 μέρες που βγήκε η v
 
 
 
-                                            [cerebrux.net](https://cerebrux.net)
+[cerebrux.net](https://cerebrux.net)
