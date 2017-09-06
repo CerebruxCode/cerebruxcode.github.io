@@ -17,3 +17,7 @@ description: Μετά από περίπου 12 μέρες που βγήκε η v
 - Χρησιμοποιήθηκε η υπηρεσία Shellcheck για την συνολική βελτίωση του κώδικα
 - Προστέθηκε έλεγχος στην αλλαγή συνθηματικού root αλλά και κατά την δημιουργία χρήστη.
 - Διορθώθηκαν μερικά μικρά [bugs](https://github.com/CerebruxCode/Archon/milestone/1?closed=1)
+
+
+
+**Για λήψη και πληροφορίες επισκευτείτε το** [Archon installer](https://github.com/CerebruxCode/Archon)
