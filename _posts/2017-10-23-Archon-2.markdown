@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Archon v2.0 Released"
+date:   2017-10-23 00:00:00 +0200
+description: Ο κύκλος ανάπτυξης της v2.0 ήταν συμαντικά μεγάλος, μιας και έγινε refactor o κώδικας ώστε να υπάρχει μόνο ένα αρχείο και όχι δύο. Όλο αυτό χρειαζόταν testing και ξανα testing ώστε να είναι stable.... 
+---
+Ο κύκλος ανάπτυξης της v2.0 ήταν συμαντικά μεγάλος, μιας και έγινε refactor o κώδικας ώστε να υπάρχει μόνο ένα αρχείο και όχι δύο. Όλο αυτό χρειαζόταν testing και ξανα testing ώστε να είναι stable.
+
+Με λίγα λόγια εστιάσαμε στo merge των archon και archon2 παρά στο να προσθέσουμε νεα feature.
+
+Σε γενικές γραμμές το changelog:
+
+- Μικρές πινελιές βελτιστοποίησης
+- Merge του archon.2 στο archon.sh
+- Καθαρισμός κώδικα
+- Διόρθωση μηνυμάτων (λεκτικό)
+
+Δείτε αναλυτικά τα [closed issues της v2.0](https://github.com/CerebruxCode/Archon/issues?q=is:issue+is:closed+milestone:"Archon+v2.0")
+
+**Για λήψη και πληροφορίες επισκευτείτε το** [Archon installer](https://github.com/CerebruxCode/Archon)
+
+
+[cerebrux.net](https://cerebrux.net)
