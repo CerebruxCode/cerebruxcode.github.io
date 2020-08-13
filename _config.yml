@@ -10,7 +10,6 @@ url: "http://code.cerebrux.net" # the base hostname & protocol for your site, e.
 # Social
 facebook: cerebrux
 twitter: cerebrux
-google-plus: collection/0X3zfB
 github: cerebruxcode
 #Mymods
 #excerpt_separator: '<!-- more -->'
@@ -30,7 +29,6 @@ keywords:
 timezone: Europe/Athens
 google_site_verification: "0X-0Z0IU7ddvscGoWRR5S-BQjZJqXIjSw_CiqFLKGoQ"
 # Contact form
-
 
 # Comments
 discus-identifier: cerebruxcode # Add your Disqus identifier
